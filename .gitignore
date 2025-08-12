@@ -1,0 +1,5 @@
+#ignore books dir
+books/
+
+#dont know why this was made but it was
+.ropeproject
