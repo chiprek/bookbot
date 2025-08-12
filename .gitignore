@@ -1,5 +1,6 @@
 #ignore books dir
 books/
+__pycache__/
 
 #dont know why this was made but it was
 .ropeproject
